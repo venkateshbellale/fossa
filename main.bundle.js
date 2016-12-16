@@ -4938,7 +4938,7 @@ var NavigationCancelingError = (function (_super) {
 }(Error));
 function defaultUrlMatcher(segments, segmentGroup, route) {
     var path = route.path;
-    var parts = path.split('foss/');
+    var parts = path.split('/');
     var posParams = {};
     var consumed = [];
     var currentIndex = 0;
