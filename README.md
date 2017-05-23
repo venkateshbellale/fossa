@@ -1,2 +1,4 @@
 # foss
-AN example of angular 2 app (loklak search) deployed on github pages.
+loklak search-a data mining application that collect information from various sources especially from Twitter.
+powered by angular (2)
+by fossasia.
